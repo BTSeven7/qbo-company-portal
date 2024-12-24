@@ -1,2 +1,2 @@
 # qbo-company-portal
-Temporary Set Up for Internal Tools
+Temporary set up for internal tools
